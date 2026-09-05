@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/simple_calc.dir/main.cpp.o -o simple_calc  add/libadd_lib.a 

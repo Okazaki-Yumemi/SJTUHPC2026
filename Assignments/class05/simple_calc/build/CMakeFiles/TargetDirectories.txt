@@ -1,0 +1,6 @@
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/CMakeFiles/simple_calc.dir
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/CMakeFiles/edit_cache.dir
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/CMakeFiles/rebuild_cache.dir
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/add/CMakeFiles/add_lib.dir
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/add/CMakeFiles/edit_cache.dir
+/home/lpr/study/hpc/study_of_sjtu_hpc2026/Assignments/class05/simple_calc/build/add/CMakeFiles/rebuild_cache.dir
